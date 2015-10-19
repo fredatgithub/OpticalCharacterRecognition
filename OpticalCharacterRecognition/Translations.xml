@@ -1,243 +1,1433 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Document>
-  <DocumentVersion>
-    <version>1.0</version>
-  </DocumentVersion>
-  <terms>
-    <term>
-      <name>MenuFile</name>
-      <englishValue>File</englishValue>
-      <frenchValue>Fichier</frenchValue>
-    </term>
-    <term>
-      <name>MenuFileNew</name>
-      <englishValue>New</englishValue>
-      <frenchValue>Nouveau</frenchValue>
-    </term>
-    <term>
-      <name>MenuFileOpen</name>
-      <englishValue>Open</englishValue>
-      <frenchValue>Ouvrir</frenchValue>
-    </term>
-    <term>
-      <name>MenuFileSave</name>
-      <englishValue>Save</englishValue>
-      <frenchValue>Enregistrer</frenchValue>
-    </term>
-    <term>
-      <name>MenuFileSaveAs</name>
-      <englishValue>Save as ...</englishValue>
-      <frenchValue>Enregistrer sous ...</frenchValue>
-    </term>
-    <term>
-      <name>MenuFilePrint</name>
-      <englishValue>Print ...</englishValue>
-      <frenchValue>Imprimer ...</frenchValue>
-    </term>
-    <term>
-      <name>MenufilePageSetup</name>
-      <englishValue>Page setup</englishValue>
-      <frenchValue>Aperçu avant impression</frenchValue>
-    </term>
-    <term>
-      <name>MenufileQuit</name>
-      <englishValue>Quit</englishValue>
-      <frenchValue>Quitter</frenchValue>
-    </term>
-    <term>
-      <name>MenuEdit</name>
-      <englishValue>Edit</englishValue>
-      <frenchValue>Edition</frenchValue>
-    </term>
-    <term>
-      <name>MenuEditCancel</name>
-      <englishValue>Cancel</englishValue>
-      <frenchValue>Annuler</frenchValue>
-    </term>
-    <term>
-      <name>MenuEditRedo</name>
-      <englishValue>Redo</englishValue>
-      <frenchValue>Rétablir</frenchValue>
-    </term>
-    <term>
-      <name>MenuEditCut</name>
-      <englishValue>Cut</englishValue>
-      <frenchValue>Couper</frenchValue>
-    </term>
-    <term>
-      <name>MenuEditCopy</name>
-      <englishValue>Copy</englishValue>
-      <frenchValue>Copier</frenchValue>
-    </term>
-    <term>
-      <name>MenuEditPaste</name>
-      <englishValue>Paste</englishValue>
-      <frenchValue>Coller</frenchValue>
-    </term>
-    <term>
-      <name>MenuEditSelectAll</name>
-      <englishValue>Select All</englishValue>
-      <frenchValue>Sélectionner tout</frenchValue>
-    </term>
-    <term>
-      <name>MenuTools</name>
-      <englishValue>Tools</englishValue>
-      <frenchValue>Outils</frenchValue>
-    </term>
-    <term>
-      <name>MenuToolsCustomize</name>
-      <englishValue>Customize ...</englishValue>
-      <frenchValue>Personaliser ...</frenchValue>
-    </term>
-    <term>
-      <name>MenuToolsOptions</name>
-      <englishValue>Options</englishValue>
-      <frenchValue>Options</frenchValue>
-    </term>
-    <term>
-      <name>MenuLanguage</name>
-      <englishValue>Language</englishValue>
-      <frenchValue>Langage</frenchValue>
-    </term>
-    <term>
-      <name>MenuLanguageEnglish</name>
-      <englishValue>English</englishValue>
-      <frenchValue>Anglais</frenchValue>
-    </term>
-    <term>
-      <name>MenuLanguageFrench</name>
-      <englishValue>French</englishValue>
-      <frenchValue>Français</frenchValue>
-    </term>
-    <term>
-      <name>MenuHelp</name>
-      <englishValue>Help</englishValue>
-      <frenchValue>Aide</frenchValue>
-    </term>
-    <term>
-      <name>MenuHelpSummary</name>
-      <englishValue>Summary</englishValue>
-      <frenchValue>Sommaire</frenchValue>
-    </term>
-    <term>
-      <name>MenuHelpIndex</name>
-      <englishValue>Index</englishValue>
-      <frenchValue>Index</frenchValue>
-    </term>
-    <term>
-      <name>MenuHelpSearch</name>
-      <englishValue>Search</englishValue>
-      <frenchValue>Rechercher</frenchValue>
-    </term>
-    <term>
-      <name>MenuHelpAbout</name>
-      <englishValue>About</englishValue>
-      <frenchValue>A propos de ...</frenchValue>
-    </term>
-    <term>
-      <name>ThereIs</name>
-      <englishValue>There is</englishValue>
-      <frenchValue>Il y a</frenchValue>
-    </term>
-    <term>
-      <name>toCut</name>
-      <englishValue>to cut</englishValue>
-      <frenchValue>à couper</frenchValue>
-    </term>
-    <term>
-      <name>NoTextHasBeenSelected</name>
-      <englishValue>No text has been selected</englishValue>
-      <frenchValue>Pas de texte a été selectionné</frenchValue>
-    </term>
-    <term>
-      <name>ThereIsNothingToCopy</name>
-      <englishValue>There is nothing to copy</englishValue>
-      <frenchValue>Il n'y a rien à copier</frenchValue>
-    </term>
-    <term>
-      <name>Display</name>
-      <englishValue>Display</englishValue>
-      <frenchValue>Affichage</frenchValue>
-    </term>
-    <term>
-      <name>Small</name>
-      <englishValue>Small</englishValue>
-      <frenchValue>Petit</frenchValue>
-    </term>
-    <term>
-      <name>Medium</name>
-      <englishValue>Medium</englishValue>
-      <frenchValue>Moyen</frenchValue>
-    </term>
-    <term>
-      <name>Large</name>
-      <englishValue>Large</englishValue>
-      <frenchValue>Grand</frenchValue>
-    </term>
-    <!--<term>
-      <name></name>
-      <englishValue></englishValue>
-      <frenchValue></frenchValue>
-    </term>-->
-    <!--<term>
-      <name></name>
-      <englishValue></englishValue>
-      <frenchValue></frenchValue>
-    </term>-->
-    <!--<term>
-      <name></name>
-      <englishValue></englishValue>
-      <frenchValue></frenchValue>
-    </term>-->
-    <!--<term>
-      <name></name>
-      <englishValue></englishValue>
-      <frenchValue></frenchValue>
-    </term>-->
-    <!--<term>
-      <name></name>
-      <englishValue></englishValue>
-      <frenchValue></frenchValue>
-    </term>-->
-    <!--<term>
-      <name></name>
-      <englishValue></englishValue>
-      <frenchValue></frenchValue>
-    </term>-->
-    <!--<term>
-      <name></name>
-      <englishValue></englishValue>
-      <frenchValue></frenchValue>
-    </term>-->
-    <!--<term>
-      <name></name>
-      <englishValue></englishValue>
-      <frenchValue></frenchValue>
-    </term>-->
-    <!--<term>
-      <name></name>
-      <englishValue></englishValue>
-      <frenchValue></frenchValue>
-    </term>-->
-    <!--<term>
-      <name></name>
-      <englishValue></englishValue>
-      <frenchValue></frenchValue>
-    </term>-->
-    <!--<term>
-      <name></name>
-      <englishValue></englishValue>
-      <frenchValue></frenchValue>
-    </term>-->
-    <!--<term>
-      <name></name>
-      <englishValue></englishValue>
-      <frenchValue></frenchValue>
-    </term>-->
-    <!--<term>
-      <name></name>
-      <englishValue></englishValue>
-      <frenchValue></frenchValue>
-    </term>-->
-  </terms>
-</Document>
+<terms>
+  <term>
+    <name>MenuFile</name>
+    <englishValue>File</englishValue>
+    <frenchValue>Fichier</frenchValue>
+  </term>
+  <term>
+    <name>MenuFileNew</name>
+    <englishValue>New</englishValue>
+    <frenchValue>Nouveau</frenchValue>
+  </term>
+  <term>
+    <name>MenuFileOpen</name>
+    <englishValue>Open</englishValue>
+    <frenchValue>Ouvrir</frenchValue>
+  </term>
+  <term>
+    <name>MenuFileSave</name>
+    <englishValue>Save</englishValue>
+    <frenchValue>Enregistrer</frenchValue>
+  </term>
+  <term>
+    <name>MenuFileSaveAs</name>
+    <englishValue>Save as ...</englishValue>
+    <frenchValue>Enregistrer sous ...</frenchValue>
+  </term>
+  <term>
+    <name>MenuFilePrint</name>
+    <englishValue>Print ...</englishValue>
+    <frenchValue>Imprimer ...</frenchValue>
+  </term>
+  <term>
+    <name>MenufilePageSetup</name>
+    <englishValue>Page setup</englishValue>
+    <frenchValue>Aperçu avant impression</frenchValue>
+  </term>
+  <term>
+    <name>MenufileQuit</name>
+    <englishValue>Quit</englishValue>
+    <frenchValue>Quitter</frenchValue>
+  </term>
+  <term>
+    <name>MenuEdit</name>
+    <englishValue>Edit</englishValue>
+    <frenchValue>Edition</frenchValue>
+  </term>
+  <term>
+    <name>MenuEditCancel</name>
+    <englishValue>Cancel</englishValue>
+    <frenchValue>Annuler</frenchValue>
+  </term>
+  <term>
+    <name>MenuEditRedo</name>
+    <englishValue>Redo</englishValue>
+    <frenchValue>Rétablir</frenchValue>
+  </term>
+  <term>
+    <name>MenuEditCut</name>
+    <englishValue>Cut</englishValue>
+    <frenchValue>Couper</frenchValue>
+  </term>
+  <term>
+    <name>MenuEditCopy</name>
+    <englishValue>Copy</englishValue>
+    <frenchValue>Copier</frenchValue>
+  </term>
+  <term>
+    <name>MenuEditPaste</name>
+    <englishValue>Paste</englishValue>
+    <frenchValue>Coller</frenchValue>
+  </term>
+  <term>
+    <name>MenuEditSelectAll</name>
+    <englishValue>Select All</englishValue>
+    <frenchValue>Sélectionner tout</frenchValue>
+  </term>
+  <term>
+    <name>MenuTools</name>
+    <englishValue>Tools</englishValue>
+    <frenchValue>Outils</frenchValue>
+  </term>
+  <term>
+    <name>MenuToolsCustomize</name>
+    <englishValue>Customize ...</englishValue>
+    <frenchValue>Personaliser ...</frenchValue>
+  </term>
+  <term>
+    <name>MenuToolsOptions</name>
+    <englishValue>Options</englishValue>
+    <frenchValue>Options</frenchValue>
+  </term>
+  <term>
+    <name>MenuLanguage</name>
+    <englishValue>Language</englishValue>
+    <frenchValue>Langage</frenchValue>
+  </term>
+  <term>
+    <name>MenuLanguageEnglish</name>
+    <englishValue>English</englishValue>
+    <frenchValue>Anglais</frenchValue>
+  </term>
+  <term>
+    <name>MenuLanguageFrench</name>
+    <englishValue>French</englishValue>
+    <frenchValue>Français</frenchValue>
+  </term>
+  <term>
+    <name>MenuHelp</name>
+    <englishValue>Help</englishValue>
+    <frenchValue>Aide</frenchValue>
+  </term>
+  <term>
+    <name>MenuHelpSummary</name>
+    <englishValue>Summary</englishValue>
+    <frenchValue>Sommaire</frenchValue>
+  </term>
+  <term>
+    <name>MenuHelpIndex</name>
+    <englishValue>Index</englishValue>
+    <frenchValue>Index</frenchValue>
+  </term>
+  <term>
+    <name>MenuHelpSearch</name>
+    <englishValue>Search</englishValue>
+    <frenchValue>Rechercher</frenchValue>
+  </term>
+  <term>
+    <name>MenuHelpAbout</name>
+    <englishValue>About</englishValue>
+    <frenchValue>A propos de ...</frenchValue>
+  </term>
+  <term>
+    <name>ThereIs</name>
+    <englishValue>There is</englishValue>
+    <frenchValue>Il y a</frenchValue>
+  </term>
+  <term>
+    <name>toCut</name>
+    <englishValue>to cut</englishValue>
+    <frenchValue>à couper</frenchValue>
+  </term>
+  <term>
+    <name>NoTextHasBeenSelected</name>
+    <englishValue>No text has been selected</englishValue>
+    <frenchValue>Pas de texte a été selectionné</frenchValue>
+  </term>
+  <term>
+    <name>ThereIsNothingToCopy</name>
+    <englishValue>There is nothing to copy</englishValue>
+    <frenchValue>Il n'y a rien à copier</frenchValue>
+  </term>
+  <term>
+    <name>Beforeline</name>
+    <englishValue>Before line</englishValue>
+    <frenchValue>Avant la ligne</frenchValue>
+  </term>
+  <term>
+    <name>Afterline</name>
+    <englishValue>After line</englishValue>
+    <frenchValue>Après la ligne</frenchValue>
+  </term>
+  <term>
+    <name>Convert</name>
+    <englishValue>Convert</englishValue>
+    <frenchValue>Convertir</frenchValue>
+  </term>
+  <term>
+    <name>Keepemptylines</name>
+    <englishValue>Keep empty lines</englishValue>
+    <frenchValue>Garder lignes vides</frenchValue>
+  </term>
+  <term>
+    <name>Trimwhitespace</name>
+    <englishValue>Trim white space</englishValue>
+    <frenchValue>Effacer espaces extrémités</frenchValue>
+  </term>
+  <term>
+    <name>Donotduplicatestartingandendingcharacters</name>
+    <englishValue>Do not duplicate starting and ending characters</englishValue>
+    <frenchValue>Pas de caractère doublé en extrémité</frenchValue>
+  </term>
+  <term>
+    <name>Targettext</name>
+    <englishValue>Target text</englishValue>
+    <frenchValue>Texte cible</frenchValue>
+  </term>
+  <term>
+    <name>Sourcetext</name>
+    <englishValue>Source text</englishValue>
+    <frenchValue>Texte source</frenchValue>
+  </term>
+  <term>
+    <name>nothing</name>
+    <englishValue>nothing</englishValue>
+    <frenchValue>rien</frenchValue>
+  </term>
+  <term>
+    <name>The source text cannot be empty</name>
+    <englishValue>The source text cannot be empty</englishValue>
+    <frenchValue>Le texte source ne peut pas être vide</frenchValue>
+  </term>
+  <term>
+    <name>Text Empty</name>
+    <englishValue>Text Empty</englishValue>
+    <frenchValue>Text vide</frenchValue>
+  </term>
+  <term>
+    <name>Display</name>
+    <englishValue>Display</englishValue>
+    <frenchValue>Affichage</frenchValue>
+  </term>
+  <term>
+    <name>Small</name>
+    <englishValue>Small</englishValue>
+    <frenchValue>Petit</frenchValue>
+  </term>
+  <term>
+    <name>Medium</name>
+    <englishValue>Medium</englishValue>
+    <frenchValue>Moyen</frenchValue>
+  </term>
+  <term>
+    <name>Large</name>
+    <englishValue>Large</englishValue>
+    <frenchValue>Grand</frenchValue>
+  </term>
+  <term>
+    <name>Solution Path</name>
+    <englishValue>Solution Path</englishValue>
+    <frenchValue>Chemin de la solution</frenchValue>
+  </term>
+  <term>
+    <name>Check Translated strings</name>
+    <englishValue>Check Translated strings</englishValue>
+    <frenchValue>Vérifer les chaines traduites</frenchValue>
+  </term>
+  <term>
+    <name>Empty field</name>
+    <englishValue>Empty field</englishValue>
+    <frenchValue>Champ vide</frenchValue>
+  </term>
+  <term>
+    <name>The solution path cannot be empty</name>
+    <englishValue>The solution path cannot be empty</englishValue>
+    <frenchValue>Le chemin de la solution ne peut être vide</frenchValue>
+  </term>
+  <term>
+    <name>Solution Files</name>
+    <englishValue>Solution Files</englishValue>
+    <frenchValue>Fichiers solutions</frenchValue>
+  </term>
+  <term>
+    <name>Projects Files</name>
+    <englishValue>Projects Files</englishValue>
+    <frenchValue>Fichiers projets</frenchValue>
+  </term>
+  <term>
+    <name>No text has been found</name>
+    <englishValue>No text has been found</englishValue>
+    <frenchValue>Aucun texte n'a été trouvé</frenchValue>
+  </term>
+  <term>
+    <name>No Text</name>
+    <englishValue>No Text</englishValue>
+    <frenchValue>Aucun texte</frenchValue>
+  </term>
+  <term>
+    <name>Choose a language</name>
+    <englishValue>Choose a language</englishValue>
+    <frenchValue>Choisissez une langue</frenchValue>
+  </term>
+  <term>
+    <name>Count</name>
+    <englishValue>Count</englishValue>
+    <frenchValue>Compter</frenchValue>
+  </term>
+  <term>
+    <name>Clear</name>
+    <englishValue>Clear</englishValue>
+    <frenchValue>Effacer</frenchValue>
+  </term>
+  <term>
+    <name>Number of words</name>
+    <englishValue>Number of words</englishValue>
+    <frenchValue>Nombre de mots</frenchValue>
+  </term>
+  <term>
+    <name>Number of characters</name>
+    <englishValue>Number of characters</englishValue>
+    <frenchValue>Nombre de caractères</frenchValue>
+  </term>
+  <term>
+    <name>Load results</name>
+    <englishValue>Load results</englishValue>
+    <frenchValue>Charger les résultats</frenchValue>
+  </term>
+  <term>
+    <name>Document title</name>
+    <englishValue>Document title</englishValue>
+    <frenchValue>Titre du document</frenchValue>
+  </term>
+  <term>
+    <name>Untitled document</name>
+    <englishValue>Untitled document</englishValue>
+    <frenchValue>Document sans titre</frenchValue>
+  </term>
+  <term>
+    <name>Clear results</name>
+    <englishValue>Clear results</englishValue>
+    <frenchValue>Effacer les résultats</frenchValue>
+  </term>
+  <term>
+    <name>Available Language</name>
+    <englishValue>Available Language</englishValue>
+    <frenchValue>Langue disponible</frenchValue>
+  </term>
+  <term>
+    <name>Download</name>
+    <englishValue>Download</englishValue>
+    <frenchValue>Télécharger</frenchValue>
+  </term>
+  <term>
+    <name>Clear Log</name>
+    <englishValue>Clear Log</englishValue>
+    <frenchValue>Effacer le log</frenchValue>
+  </term>
+  <term>
+    <name>Select the PDF files you want to download</name>
+    <englishValue>Select the PDF files you want to download</englishValue>
+    <frenchValue>Sélectionner les fichiers PDF à télécharger</frenchValue>
+  </term>
+  <term>
+    <name>Clearing past results</name>
+    <englishValue>Clearing past results</englishValue>
+    <frenchValue>Effacement des résultats précédents</frenchValue>
+  </term>
+  <term>
+    <name>The URL is empty</name>
+    <englishValue>The URL is empty</englishValue>
+    <frenchValue>L'URL est vide</frenchValue>
+  </term>
+  <term>
+    <name>Enter a correct URL</name>
+    <englishValue>Enter a correct URL</englishValue>
+    <frenchValue>Entrer une URL correcte</frenchValue>
+  </term>
+  <term>
+    <name>URL empty</name>
+    <englishValue>URL empty</englishValue>
+    <frenchValue>URL vide</frenchValue>
+  </term>
+  <term>
+    <name>The URL is not correct</name>
+    <englishValue>The URL is not correct</englishValue>
+    <frenchValue>L'URL n'est pas correcte</frenchValue>
+  </term>
+  <term>
+    <name>Bad URL</name>
+    <englishValue>Bad URL</englishValue>
+    <frenchValue>Mauvaise URL</frenchValue>
+  </term>
+  <term>
+    <name>Connecting to the url to get PDF files</name>
+    <englishValue>Connecting to the url to get PDF files</englishValue>
+    <frenchValue>Connexion à l'url pour obtenir la liste des fichiers PDF</frenchValue>
+  </term>
+  <term>
+    <name>PDF file</name>
+    <englishValue>PDF file</englishValue>
+    <frenchValue>fichier PDF</frenchValue>
+  </term>
+  <term>
+    <name>file</name>
+    <englishValue>file</englishValue>
+    <frenchValue>fichier</frenchValue>
+  </term>
+  <term>
+    <name>Get Titles</name>
+    <englishValue>Get Titles</englishValue>
+    <frenchValue>Obtenir les titres</frenchValue>
+  </term>
+  <term>
+    <name>List all ebooks</name>
+    <englishValue>List all ebooks</englishValue>
+    <frenchValue>Liste tous les ebooks</frenchValue>
+  </term>
+  <term>
+    <name>Select-Unselect All</name>
+    <englishValue>Select-Unselect All</englishValue>
+    <frenchValue>Intervertir la sélection</frenchValue>
+  </term>
+  <term>
+    <name>Unselect All</name>
+    <englishValue>Unselect All</englishValue>
+    <frenchValue>Tout désélectionner</frenchValue>
+  </term>
+  <term>
+    <name>Select-Unselect PDF</name>
+    <englishValue>Select-Unselect PDF</englishValue>
+    <frenchValue>Intervertir les PDF</frenchValue>
+  </term>
+  <term>
+    <name>Select-Unselect EPUB</name>
+    <englishValue>Select-Unselect EPUB</englishValue>
+    <frenchValue>Intervertir les EPUB</frenchValue>
+  </term>
+  <term>
+    <name>Select-Unselect MOBI</name>
+    <englishValue>Select-Unselect MOBI</englishValue>
+    <frenchValue>Intervertir les MOBI</frenchValue>
+  </term>
+  <term>
+    <name>web response ok</name>
+    <englishValue>web response ok</englishValue>
+    <frenchValue>Réponse web ok</frenchValue>
+  </term>
+  <term>
+    <name>web response not ok, error</name>
+    <englishValue>web response not ok, error</englishValue>
+    <frenchValue>Réponse web ko, erreur</frenchValue>
+  </term>
+  <term>
+    <name>search is over, please check ebooks you want to download</name>
+    <englishValue>search is over, please check ebooks you want to download</englishValue>
+    <frenchValue>Recherche terminée, veuillez cocher les fichiers désirés</frenchValue>
+  </term>
+  <term>
+    <name>Download ok for ebook</name>
+    <englishValue>Download ok for ebook</englishValue>
+    <frenchValue>Téléchargement fini pour l'ebook</frenchValue>
+  </term>
+  <term>
+    <name>Name for ebook</name>
+    <englishValue>Name for ebook</englishValue>
+    <frenchValue>Nom de l'ebook</frenchValue>
+  </term>
+  <term>
+    <name>Download not ok for ebook</name>
+    <englishValue>Download not ok for ebook</englishValue>
+    <frenchValue>Téléchargement en erreur pour l'ebook</frenchValue>
+  </term>
+  <term>
+    <name>ebook url</name>
+    <englishValue>ebook url</englishValue>
+    <frenchValue>url de l'ebook</frenchValue>
+  </term>
+  <term>
+    <name>Download process is over</name>
+    <englishValue>Download process is over</englishValue>
+    <frenchValue>Le téléchargement est terminé</frenchValue>
+  </term>
+  <term>
+    <name>Download over</name>
+    <englishValue>Download over</englishValue>
+    <frenchValue>Téléchargement terminé</frenchValue>
+  </term>
+  <term>
+    <name>Change unknown format to</name>
+    <englishValue>Change unknown format to</englishValue>
+    <frenchValue>Changer fomat inconnu pour</frenchValue>
+  </term>
+  <term>
+    <name>Duration</name>
+    <englishValue>Duration</englishValue>
+    <frenchValue>Durée</frenchValue>
+  </term>
+  <term>
+    <name>Choose the Visual Studio version:</name>
+    <englishValue>Choose the Visual Studio version:</englishValue>
+    <frenchValue>Choisissez la version de Visual Studio :</frenchValue>
+  </term>
+  <term>
+    <name>or pick directory:</name>
+    <englishValue>or pick directory:</englishValue>
+    <frenchValue>ou choisissez le répertoire :</frenchValue>
+  </term>
+  <term>
+    <name>GitBash installed</name>
+    <englishValue>GitBash installed</englishValue>
+    <frenchValue>GitBash installé</frenchValue>
+  </term>
+  <term>
+    <name>GitBash not installed</name>
+    <englishValue>GitBash not installed</englishValue>
+    <frenchValue>GitBash non installé</frenchValue>
+  </term>
+  <term>
+    <name>Update selected Visual Studio Projects</name>
+    <englishValue>Update selected Visual Studio Projects</englishValue>
+    <frenchValue>Mettre à jour les projets Visual Studio</frenchValue>
+  </term>
+  <term>
+    <name>Select the Visual Studio projects you want to update</name>
+    <englishValue>Select the Visual Studio projects you want to update</englishValue>
+    <frenchValue>Sélectionnez les projets Visual Studio à mettre à jour</frenchValue>
+  </term>
+  <term>
+    <name>Scan whole Pc</name>
+    <englishValue>Scan whole Pc</englishValue>
+    <frenchValue>Scanner le Pc entier</frenchValue>
+  </term>
+  <term>
+    <name>Wrong Directory</name>
+    <englishValue>Wrong Directory</englishValue>
+    <frenchValue>Mauvais répertoire</frenchValue>
+  </term>
+  <term>
+    <name>Enter a correct path</name>
+    <englishValue>Enter a correct path</englishValue>
+    <frenchValue>Entrez un chemin correct</frenchValue>
+  </term>
+  <term>
+    <name>The Visual Studio project directory path doesn't exist</name>
+    <englishValue>The Visual Studio project directory path doesn't exist</englishValue>
+    <frenchValue>Le chemin des répertoires des projets Visual Studio n'existe pas</frenchValue>
+  </term>
+  <term>
+    <name>The Visual Studio project directory is empty</name>
+    <englishValue>The Visual Studio project directory is empty</englishValue>
+    <frenchValue>Le répertoire des projets Visual Studio est vide</frenchValue>
+  </term>
+  <term>
+    <name>Directory empty</name>
+    <englishValue>Directory empty</englishValue>
+    <frenchValue>Répertoire vide</frenchValue>
+  </term>
+  <term>
+    <name>The Visual Studio project directory path is empty</name>
+    <englishValue>The Visual Studio project directory path is empty</englishValue>
+    <frenchValue>Le chemin des répertoires des projets Visual Studio est vide</frenchValue>
+  </term>
+  <term>
+    <name>The GitBash directory path is empty</name>
+    <englishValue>The GitBash directory path is empty</englishValue>
+    <frenchValue>Le chemin de GitBash est vide</frenchValue>
+  </term>
+  <term>
+    <name>The executable GitBash directory path doesn't exist</name>
+    <englishValue>The GitBash executable directory path doesn't exist</englishValue>
+    <frenchValue>Le répertoire de l'exécutable GitBash n'existe pas</frenchValue>
+  </term>
+  <term>
+    <name>Search for Visual Studio Projects</name>
+    <englishValue>Search for Visual Studio Projects</englishValue>
+    <frenchValue>Cherchez les projets Visual Studio</frenchValue>
+  </term>
+  <term>
+    <name>Searching for Visual Studio projects</name>
+    <englishValue>Searching for Visual Studio projects</englishValue>
+    <frenchValue>Recherche des projets Visual Studio</frenchValue>
+  </term>
+  <term>
+    <name>project</name>
+    <englishValue>project</englishValue>
+    <frenchValue>projet</frenchValue>
+  </term>
+  <term>
+    <name>been found</name>
+    <englishValue>been found</englishValue>
+    <frenchValue>été trouvé</frenchValue>
+  </term>
+  <term>
+    <name>has</name>
+    <englishValue>has</englishValue>
+    <frenchValue>a</frenchValue>
+  </term>
+  <term>
+    <name>have</name>
+    <englishValue>have</englishValue>
+    <frenchValue>ont</frenchValue>
+  </term>
+  <term>
+    <name>The list doesn't have any Visual Studio project to update</name>
+    <englishValue>The list doesn't have any Visual Studio project to update</englishValue>
+    <frenchValue>La liste n'a pas de projet Visual Studio à mettre à jour</frenchValue>
+  </term>
+  <term>
+    <name>Enter a correct path and search project again</name>
+    <englishValue>Enter a correct path and search project again</englishValue>
+    <frenchValue>Entrez un chemin correct et recherchez des projets</frenchValue>
+  </term>
+  <term>
+    <name>List empty</name>
+    <englishValue>List empty</englishValue>
+    <frenchValue>Liste vide</frenchValue>
+  </term>
+  <term>
+    <name>Updating selected projects</name>
+    <englishValue>Updating selected projects</englishValue>
+    <frenchValue>Mise à jour des projets sélectionnés</frenchValue>
+  </term>
+  <term>
+    <name>No project has been selected</name>
+    <englishValue>No project has been selected</englishValue>
+    <frenchValue>Aucun projet n'a été sélectionné</frenchValue>
+  </term>
+  <term>
+    <name>Select at least one project</name>
+    <englishValue>Select at least one project</englishValue>
+    <frenchValue>Sélectionnez au moins un projet</frenchValue>
+  </term>
+  <term>
+    <name>No selection</name>
+    <englishValue>No selection</englishValue>
+    <frenchValue>Pas de sélection</frenchValue>
+  </term>
+  <term>
+    <name>Generate only the script file</name>
+    <englishValue>Generate only the script file</englishValue>
+    <frenchValue>Juste créer le fichier script</frenchValue>
+  </term>
+  <term>
+    <name>Creating the script</name>
+    <englishValue>Creating the script</englishValue>
+    <frenchValue>Création du script</frenchValue>
+  </term>
+  <term>
+    <name>in</name>
+    <englishValue>in</englishValue>
+    <frenchValue>dans</frenchValue>
+  </term>
+  <term>
+    <name>Creating the update.bat script</name>
+    <englishValue>Creating the update.bat script</englishValue>
+    <frenchValue>Creation du script update.bat</frenchValue>
+  </term>
+  <term>
+    <name>Adding the selected project</name>
+    <englishValue>Adding the selected project</englishValue>
+    <frenchValue>Ajout du projet sélectionné</frenchValue>
+  </term>
+  <term>
+    <name>Press a key to exit</name>
+    <englishValue>Press a key to exit</englishValue>
+    <frenchValue>Appuyer sur une touche pour terminer</frenchValue>
+  </term>
+  <term>
+    <name>Toggle items</name>
+    <englishValue>Toggle items</englishValue>
+    <frenchValue>Inverse tout</frenchValue>
+  </term>
+  <term>
+    <name>The path to GitBash does not match its installation</name>
+    <englishValue>The path to GitBash does not match its installation</englishValue>
+    <frenchValue>Le chemin des binaires de GitBash ne correspond pas à son installation</frenchValue>
+  </term>
+  <term>
+    <name>GitBash binaries no match</name>
+    <englishValue>GitBash binaries no match</englishValue>
+    <frenchValue>Chemin Binaires GitBash incorrect</frenchValue>
+  </term>
+  <term>
+    <name>The Path variable does not have the path to the GitBash binaries</name>
+    <englishValue>The Path variable does not have the path to the GitBash binaries</englishValue>
+    <frenchValue>La variable Path ne contient pas le chemin vers les binaires de GitBash</frenchValue>
+  </term>
+  <term>
+    <name>Path variable no GitBash binaries</name>
+    <englishValue>Path variable no GitBash binaries</englishValue>
+    <frenchValue>Variable Path pas de binaires GitBash</frenchValue>
+  </term>
+  <term>
+    <name>The USERPROFILE variable cannot be empty</name>
+    <englishValue>The USERPROFILE variable cannot be empty</englishValue>
+    <frenchValue>La variable USERPROFILE ne peut être vide</frenchValue>
+  </term>
+  <term>
+    <name>USERPROFILE variable empty</name>
+    <englishValue>USERPROFILE variable empty</englishValue>
+    <frenchValue>La variable USERPROFILE ne peut être vide</frenchValue>
+  </term>
+  <term>
+    <name>View update script file</name>
+    <englishValue>View update script file</englishValue>
+    <frenchValue>Visualiser le fichier script Update</frenchValue>
+  </term>
+  <term>
+    <name>Would you like to view the update script file</name>
+    <englishValue>Would you like to view the update script file</englishValue>
+    <frenchValue>Voulez-vous visualiser le fichier script Update</frenchValue>
+  </term>
+  <term>
+    <name>Clearing list result</name>
+    <englishValue>Clearing list result</englishValue>
+    <frenchValue>Effacer la liste des résultats</frenchValue>
+  </term>
+  <term>
+    <name>Scanning whole PC started</name>
+    <englishValue>Scanning whole PC started</englishValue>
+    <frenchValue>Lancement du scan de tout le PC</frenchValue>
+  </term>
+  <term>
+    <name>Clear log</name>
+    <englishValue>Clear log</englishValue>
+    <frenchValue>Effacer les log</frenchValue>
+  </term>
+  <term>
+    <name>Lenghty process</name>
+    <englishValue>Lenghty process</englishValue>
+    <frenchValue>Processus long</frenchValue>
+  </term>
+  <term>
+    <name>A window will pop up at the end of the process</name>
+    <englishValue>A window will pop up at the end of the process</englishValue>
+    <frenchValue>Une fenêtre s'affichera à la fin du processus</frenchValue>
+  </term>
+  <term>
+    <name>The process may take several minutes or several hours depending on the number of folder inside my document directory</name>
+    <englishValue>The process may take several minutes or several hours depending on the number of folder inside my document directory</englishValue>
+    <frenchValue>Le processus peut prendre plusieurs minutes ou plusieurs heures selon le nombre de fichier à l'intérieur du répertoire mes docuements</frenchValue>
+  </term>
+  <term>
+    <name>The process is over</name>
+    <englishValue>The process is over</englishValue>
+    <frenchValue>Le processus est terminé</frenchValue>
+  </term>
+  <term>
+    <name>It took</name>
+    <englishValue>It took</englishValue>
+    <frenchValue>Cela a pris</frenchValue>
+  </term>
+  <term>
+    <name>milliseconds</name>
+    <englishValue>milliseconds</englishValue>
+    <frenchValue>millisecondes</frenchValue>
+  </term>
+  <term>
+    <name>Process over</name>
+    <englishValue>Process over</englishValue>
+    <frenchValue>Processus terminé</frenchValue>
+  </term>
+  <term>
+    <name>Unlist Visual Studio Solution having the following terms separated with a comma</name>
+    <englishValue>Unlist Visual Studio Solutions having the following terms separated with a comma</englishValue>
+    <frenchValue>Supprimer les solutions Visual Studio ayant les mots suivants séparés par une virgule</frenchValue>
+  </term>
+  <term>
+    <name>Case sensitive</name>
+    <englishValue>Case sensitive</englishValue>
+    <frenchValue>Sensible à la casse</frenchValue>
+  </term>
+  <term>
+    <name>Removing Visual Studio Solution having</name>
+    <englishValue>Removing Visual Studio Solution having</englishValue>
+    <frenchValue>Suppression des solutions Visual Studio qui ont</frenchValue>
+  </term>
+  <term>
+    <name>the</name>
+    <englishValue>the</englishValue>
+    <frenchValue>le</frenchValue>
+  </term>
+  <term>
+    <name>and</name>
+    <englishValue>and</englishValue>
+    <frenchValue>et</frenchValue>
+  </term>
+  <term>
+    <name>word</name>
+    <englishValue>word</englishValue>
+    <frenchValue>mot</frenchValue>
+  </term>
+   <term>
+    <name>Word</name>
+    <englishValue>Word</englishValue>
+    <frenchValue>Mot</frenchValue>
+  </term>
+  <term>
+    <name>Uncheck all</name>
+    <englishValue>Uncheck all</englishValue>
+    <frenchValue>Désélectionne tout</frenchValue>
+  </term>
+  <term>
+    <name>Check all</name>
+    <englishValue>Check all</englishValue>
+    <frenchValue>Sélectionne tout</frenchValue>
+  </term>
+  <term>
+    <name>Check</name>
+    <englishValue>Check</englishValue>
+    <frenchValue>Vérifier</frenchValue>
+  </term>
+  <term>
+    <name>GitBash binary path in Windows Path variable</name>
+    <englishValue>GitBash binary path is in the Windows Path variable</englishValue>
+    <frenchValue>Le chemin des binaires de GitBash est dans la variable Path de Windows</frenchValue>
+  </term>
+  <term>
+    <name>GitBash binary path not in Windows Path variable</name>
+    <englishValue>GitBash binary path is not in the Windows Path variable</englishValue>
+    <frenchValue>Le chemin des binaires de GitBash n'est pas dans la variable Path de Windows</frenchValue>
+  </term>
+  <term>
+    <name>error</name>
+    <englishValue>error</englishValue>
+    <frenchValue>erreur</frenchValue>
+  </term>
+  <term>
+    <name>There was a security error</name>
+    <englishValue>There was a security error</englishValue>
+    <frenchValue>Il y a eu une erreur de sécurité</frenchValue>
+  </term>
+  <term>
+    <name>probably lack of rights</name>
+    <englishValue>probably lack of rights</englishValue>
+    <frenchValue>probablement un manque de droits</frenchValue>
+  </term>
+  <term>
+    <name>There was an error</name>
+    <englishValue>There was an error</englishValue>
+    <frenchValue>Il y a eu une erreur</frenchValue>
+  </term>
+  <term>
+    <name>The following path</name>
+    <englishValue>The following path</englishValue>
+    <frenchValue>Le chemin suivant</frenchValue>
+  </term>
+  <term>
+    <name>has been added to the Windows Path variable</name>
+    <englishValue>has been added to the Windows Path variable</englishValue>
+    <frenchValue>a été ajouté à la variable Path de Windows</frenchValue>
+  </term>
+  <term>
+    <name>has not been added to the Windows Path variable</name>
+    <englishValue>has not been added to the Windows Path variable</englishValue>
+    <frenchValue>n'a pas été ajouté à la variable Path de Windows</frenchValue>
+  </term>
+  <term>
+    <name>YOU HAVE TO REBOOT YOUR PC FOR THE VARIABLE TO BE TAKEN INTO EFFECT</name>
+    <englishValue>YOU HAVE TO REBOOT YOUR PC FOR THE VARIABLE TO BE TAKEN INTO EFFECT</englishValue>
+    <frenchValue>VOUS DEVEZ REBOOTER VOTRE PC AFIN QUE LA VARIABLE SOIT PRISE EN COMPTE</frenchValue>
+  </term>
+  <term>
+    <name>Path added</name>
+    <englishValue>Path added</englishValue>
+    <frenchValue>Chemin ajouté</frenchValue>
+  </term>
+  <term>
+    <name>Check with the developer</name>
+    <englishValue>Check with the developer</englishValue>
+    <frenchValue>Contacter le développeur</frenchValue>
+  </term>
+  <term>
+    <name>Create git clone backup script for gitted Visual Studio Solutions</name>
+    <englishValue>Create a git clone backup script</englishValue>
+    <frenchValue>Création du script de backup pour faire des git clone</frenchValue>
+  </term>
+  <term>
+    <name>Listing Visual Studio solutions with Git</name>
+    <englishValue>Listing Visual Studio solutions with Git</englishValue>
+    <frenchValue>Listing des solutions Visual Studio avec Git</frenchValue>
+  </term>
+  <term>
+    <name>View backup script file</name>
+    <englishValue>View backup script file</englishValue>
+    <frenchValue>Afficher le fichier de script de backup</frenchValue>
+  </term>
+  <term>
+    <name>Would you like to view the backup script file</name>
+    <englishValue>Would you like to view the backup script file</englishValue>
+    <frenchValue>Voulez-vous afficher le fichier script de backup</frenchValue>
+  </term>
+  <term>
+    <name>The config file doesn't exist in</name>
+    <englishValue>The config file doesn't exist in</englishValue>
+    <frenchValue>Le fichier config n'existe pas</frenchValue>
+  </term>
+  <term>
+    <name>Adding the gitted project</name>
+    <englishValue>Adding the gitted project</englishValue>
+    <frenchValue>Ajout du projet git</frenchValue>
+  </term>
+  <term>
+    <name>Creating the GitCloneBackup.bat script</name>
+    <englishValue>Creating the GitCloneBackup.bat script</englishValue>
+    <frenchValue>Création du script GitCloneBackup.bat</frenchValue>
+  </term>
+  <term>
+    <name>All</name>
+    <englishValue>All</englishValue>
+    <frenchValue>Tout</frenchValue>
+  </term>
+  <term>
+    <name>Author</name>
+    <englishValue>Author</englishValue>
+    <frenchValue>Auteur</frenchValue>
+  </term>
+  <term>
+    <name>Quote</name>
+    <englishValue>Quote</englishValue>
+    <frenchValue>Citation</frenchValue>
+  </term>
+  <term>
+    <name>Search</name>
+    <englishValue>Search</englishValue>
+    <frenchValue>Rechercher</frenchValue>
+  </term>
+  <term>
+    <name>Add</name>
+    <englishValue>Add</englishValue>
+    <frenchValue>Ajouter</frenchValue>
+  </term>
+  <term>
+    <name>ListAllQuotes</name>
+    <englishValue>List all quotes</englishValue>
+    <frenchValue>Lister toutes les citations</frenchValue>
+  </term>
+  <term>
+    <name>CheckBoxAddQuoteEnglishFrench</name>
+    <englishValue>Quote in English</englishValue>
+    <frenchValue>Citation en français</frenchValue>
+  </term>
+  <term>
+    <name>SearchAll</name>
+    <englishValue>All</englishValue>
+    <frenchValue>Partout</frenchValue>
+  </term>
+  <term>
+    <name>Language</name>
+    <englishValue>Language</englishValue>
+    <frenchValue>Langage</frenchValue>
+  </term>
+  <term>
+    <name>LanguageAll</name>
+    <englishValue>All</englishValue>
+    <frenchValue>Tous</frenchValue>
+  </term>
+  <term>
+    <name>CaseSensitive</name>
+    <englishValue>Case sensitive</englishValue>
+    <frenchValue>Sensible à la casse</frenchValue>
+  </term>
+  <term>
+    <name>QuoteAdded</name>
+    <englishValue>One or more quotes have been added but not saved. Do you want to save them now?</englishValue>
+    <frenchValue>Une ou plusieurs citations ont été ajoutés sans être sauvegardées. Voulez-vous les enregistrer mainteant ?</frenchValue>
+  </term>
+  <term>
+    <name>QuoteAddedMsg</name>
+    <englishValue>Quote added but not saved</englishValue>
+    <frenchValue>Citation ajoutée mais pas sauvegardé</frenchValue>
+  </term>
+  <term>
+    <name>TheQuoteHasBeenAdded</name>
+    <englishValue>The quote has been added. Do you want to view it ?</englishValue>
+    <frenchValue>La citation a été ajoutée. Voulez-vous la visualiser mainteant ?</frenchValue>
+  </term>
+  <term>
+    <name>TheQuoteHasBeenAddedShort</name>
+    <englishValue>Quote added</englishValue>
+    <frenchValue>Citation ajoutée</frenchValue>
+  </term>
+  <term>
+    <name>Delete</name>
+    <englishValue>Delete</englishValue>
+    <frenchValue>Supprimer</frenchValue>
+  </term>
+  <term>
+    <name>EmptyText</name>
+    <englishValue>The text is empty</englishValue>
+    <frenchValue>Le texte est vide</frenchValue>
+  </term>
+  <term>
+    <name>EmptyTextShort</name>
+    <englishValue>Text empty</englishValue>
+    <frenchValue>Texte vide</frenchValue>
+  </term>
+  <term>
+    <name>NoSelection</name>
+    <englishValue>No selection has been done</englishValue>
+    <frenchValue>Aucun texte n'a été sélectionné</frenchValue>
+  </term>
+  <term>
+    <name>NoSelectionShort</name>
+    <englishValue>No selection</englishValue>
+    <frenchValue>Pas de sélection</frenchValue>
+  </term>
+  <term>
+    <name>QuoteDeleted</name>
+    <englishValue>The quote has been deleted</englishValue>
+    <frenchValue>La citation a été supprimée</frenchValue>
+  </term>
+  <term>
+    <name>QuoteDeletedShort</name>
+    <englishValue>Quote deleted</englishValue>
+    <frenchValue>Citation Supprimée</frenchValue>
+  </term>
+  <term>
+    <name>NoQuoteDeleted</name>
+    <englishValue>No Quote found thus no deletion</englishValue>
+    <frenchValue>Pas de citation trouvée donc pas de suppression</frenchValue>
+  </term>
+  <term>
+    <name>TheSentence</name>
+    <englishValue>The selected sentence</englishValue>
+    <frenchValue>La phrase sélectionnée</frenchValue>
+  </term>
+  <term>
+    <name>HasNotBeenfound</name>
+    <englishValue> has not been found in the list of quotes</englishValue>
+    <frenchValue> n'a pas été trouvée dans la liste des citations</frenchValue>
+  </term>
+  <term>
+    <name>NoQuoteDeletedShort</name>
+    <englishValue>No Quote deleted</englishValue>
+    <frenchValue>Pas de citation Supprimée</frenchValue>
+  </term>
+  <term>
+    <name>EmptyQuote</name>
+    <englishValue>The quote is empty</englishValue>
+    <frenchValue>La citation est vide</frenchValue>
+  </term>
+  <term>
+    <name>EmptyQuoteShort</name>
+    <englishValue>Empty quote</englishValue>
+    <frenchValue>Citation vide</frenchValue>
+  </term>
+  <term>
+    <name>Choose</name>
+    <englishValue>Choose</englishValue>
+    <frenchValue>Choisissez</frenchValue>
+  </term>
+  <term>
+    <name>DisplayAfterAdding</name>
+    <englishValue>Display After Adding</englishValue>
+    <frenchValue>Afficher après ajout</frenchValue>
+  </term>
+  <term>
+    <name>NoText</name>
+    <englishValue>no text</englishValue>
+    <frenchValue>pas de texte</frenchValue>
+  </term>
+  <term>
+    <name>Nothing</name>
+    <englishValue>nothing</englishValue>
+    <frenchValue>rien</frenchValue>
+  </term>
+  <term>
+    <name>The file</name>
+    <englishValue>The file</englishValue>
+    <frenchValue>Le fichier</frenchValue>
+  </term>
+  <term>
+    <name>doesn't exist</name>
+    <englishValue>doesn't exist</englishValue>
+    <frenchValue>n'existe pas</frenchValue>
+  </term>
+  <term>
+    <name>No file</name>
+    <englishValue>No file</englishValue>
+    <frenchValue>Pas de fichier</frenchValue>
+  </term>
+  <term>
+    <name>The directory</name>
+    <englishValue>The directory</englishValue>
+    <frenchValue>Le répertoire</frenchValue>
+  </term>
+  <term>
+    <name>No directory</name>
+    <englishValue>No directory</englishValue>
+    <frenchValue>Pas de répertoire</frenchValue>
+  </term>
+  <term>
+    <name>There was an error while trying to open the selected edition</name>
+    <englishValue>There was an error while trying to open the selected edition</englishValue>
+    <frenchValue>Il y a eu une erreur lors de l'ouverture de l'édition choisie</frenchValue>
+  </term>
+  <term>
+    <name>Error</name>
+    <englishValue>Error</englishValue>
+    <frenchValue>Erreur</frenchValue>
+  </term>
+  <term>
+    <name>There is no element in the list</name>
+    <englishValue>There is no element in the list</englishValue>
+    <frenchValue>Il n'y a pas d'élément dans la liste</frenchValue>
+  </term>
+  <term>
+    <name>Please select an edition first</name>
+    <englishValue>Please select an edition first</englishValue>
+    <frenchValue>Veuillez sélectionner d'abord une édition</frenchValue>
+  </term>
+  <term>
+    <name>No element to choose from</name>
+    <englishValue>No element to choose from</englishValue>
+    <frenchValue>Pas d'élément à choisir</frenchValue>
+  </term>
+  <term>
+    <name>No edition has been selected</name>
+    <englishValue>No edition has been selected</englishValue>
+    <frenchValue>Aucune édition n'a été choisi</frenchValue>
+  </term>
+  <term>
+    <name>Save File Path:</name>
+    <englishValue>Save File Path:</englishValue>
+    <frenchValue>Chemin fichier:</frenchValue>
+  </term>
+  <term>
+    <name>Select Newspaper:</name>
+    <englishValue>Select Newspaper:</englishValue>
+    <frenchValue>Choisir le journal</frenchValue>
+  </term>
+  <term>
+    <name>Select Edition:</name>
+    <englishValue>Select Edition:</englishValue>
+    <frenchValue>Choisir édition:</frenchValue>
+  </term>
+  <term>
+    <name>Select -></name>
+    <englishValue>Select -></englishValue>
+    <frenchValue>Sélectionner -></frenchValue>
+  </term>
+  <term>
+    <name>Select date:</name>
+    <englishValue>Select date:</englishValue>
+    <frenchValue>Choisir la date</frenchValue>
+  </term>
+  <term>
+    <name>Remove</name>
+    <englishValue>Remove</englishValue>
+    <frenchValue>Enlever</frenchValue>
+  </term>
+  <term>
+    <name>Edition during the weekend</name>
+    <englishValue>Edition during the weekend</englishValue>
+    <frenchValue>Edition pendant le weekend</frenchValue>
+  </term>
+  <term>
+    <name>Time period</name>
+    <englishValue>Time period</englishValue>
+    <frenchValue>Période</frenchValue>
+  </term>
+  <term>
+    <name>Single selected date</name>
+    <englishValue>Single selected date</englishValue>
+    <frenchValue>Une seule date</frenchValue>
+  </term>
+  <term>
+    <name>Several dates</name>
+    <englishValue>Several dates</englishValue>
+    <frenchValue>Plusieurs dates</frenchValue>
+  </term>
+  <term>
+    <name>Start date:</name>
+    <englishValue>Start date:</englishValue>
+    <frenchValue>Date de début:</frenchValue>
+  </term>
+  <term>
+    <name>End date:</name>
+    <englishValue>End date:</englishValue>
+    <frenchValue>Date de fin:</frenchValue>
+  </term>
+  <term>
+    <name>Download selected editions</name>
+    <englishValue>Download selected editions</englishValue>
+    <frenchValue>Download éditions choisies</frenchValue>
+  </term>
+  <term>
+    <name>Launch selected editions</name>
+    <englishValue>Launch selected editions</englishValue>
+    <frenchValue>Lancer éditions choisies</frenchValue>
+  </term>
+  <term>
+    <name>Launch target directory</name>
+    <englishValue>Launch target directory</englishValue>
+    <frenchValue>Lancer répertoire cible</frenchValue>
+  </term>
+  <term>
+    <name>You have not selected any edition</name>
+    <englishValue>You have not selected any edition</englishValue>
+    <frenchValue>Vous n'avez pas sélectionné une édition</frenchValue>
+  </term>
+  <term>
+    <name>Empty selection</name>
+    <englishValue>Empty selection</englishValue>
+    <frenchValue>Sélection vide</frenchValue>
+  </term>
+  <term>
+    <name>The directory doesn't exist</name>
+    <englishValue>The directory doesn't exist</englishValue>
+    <frenchValue>Le répertoire n'existe pas</frenchValue>
+  </term>
+  <term>
+    <name>Directory not correct</name>
+    <englishValue>Directory not correct</englishValue>
+    <frenchValue>Répertoire incorrect</frenchValue>
+  </term>
+  <term>
+    <name>The end date is earlier than the start date</name>
+    <englishValue>The end date is earlier than the start date</englishValue>
+    <frenchValue>La date de fin est antérieure à la date de fin</frenchValue>
+  </term>
+  <term>
+    <name>End date too early</name>
+    <englishValue>End date too early</englishValue>
+    <frenchValue>Date de fin trop tôt</frenchValue>
+  </term>
+  <term>
+    <name>There is no selected day in the period</name>
+    <englishValue>There is no selected day in the period</englishValue>
+    <frenchValue>Il n'y a pas de jour séléctionné dans la période</frenchValue>
+  </term>
+  <term>
+    <name>The download file has a size of zero byte so it has been deleted</name>
+    <englishValue>The download file has a size of zero byte so it has been deleted</englishValue>
+    <frenchValue>Le fichier téléchargé a une taille vide donc a été effacé</frenchValue>
+  </term>
+  <term>
+    <name>File deleted</name>
+    <englishValue>File deleted</englishValue>
+    <frenchValue>Fichier effacé</frenchValue>
+  </term>
+  <term>
+    <name>The download</name>
+    <englishValue>The download</englishValue>
+    <frenchValue>Le téléchargement</frenchValue>
+  </term>
+  <term>
+    <name>download</name>
+    <englishValue>download</englishValue>
+    <frenchValue>téléchargement</frenchValue>
+  </term>
+  <term>
+    <name>The</name>
+    <englishValue>The</englishValue>
+    <frenchValue>Le</frenchValue>
+  </term>
+  <term>
+    <name>done</name>
+    <englishValue>done</englishValue>
+    <frenchValue>fini</frenchValue>
+  </term>
+  <term>
+    <name>is</name>
+    <englishValue>is</englishValue>
+    <frenchValue>est</frenchValue>
+  </term>
+  <term>
+    <name>Download is over</name>
+    <englishValue>Download is over</englishValue>
+    <frenchValue>Téléchargement fini</frenchValue>
+  </term>
+  <term>
+    <name>no text</name>
+    <englishValue>no text</englishValue>
+    <frenchValue>pas de texte</frenchValue>
+  </term>
+  <term>
+    <name>The save file path cannot be empty</name>
+    <englishValue>The save file path cannot be empty</englishValue>
+    <frenchValue>Le chemin de sauvegarde du fichier ne peut être vide</frenchValue>
+  </term>
+  <term>
+    <name>There is nothing to copy</name>
+    <englishValue>There is nothing to copy</englishValue>
+    <frenchValue>Il n'y a rien à copier</frenchValue>
+  </term>
+  <term>
+    <name>There is</name>
+    <englishValue>There is</englishValue>
+    <frenchValue>Il y a</frenchValue>
+  </term>
+  <term>
+    <name>to cut</name>
+    <englishValue>to cut</englishValue>
+    <frenchValue>à couper</frenchValue>
+  </term>
+  <term>
+    <name>No text has been selected</name>
+    <englishValue>No text has been selected</englishValue>
+    <frenchValue>Pas de texte n'a été sélectionné</frenchValue>
+  </term>
+  <term>
+    <name>the term</name>
+    <englishValue>the term</englishValue>
+    <frenchValue>le terme</frenchValue>
+  </term>
+  <term>
+    <name>has not been translated yet</name>
+    <englishValue>has not been translated yet</englishValue>
+    <frenchValue>n'a pas encore été traduit</frenchValue>
+  </term>
+  <term>
+    <name>Please add an entry in the translation XML file or tell the developer to translate this term</name>
+    <englishValue>Please add an entry in the translation XML file or tell the developer to translate this term</englishValue>
+    <frenchValue>Veuillez ajouter une entrée dans le fichier de traduction XML ou dire au développeur de le traduire</frenchValue>
+  </term>
+  <term>
+    <name>Not a number</name>
+    <englishValue>Not a number</englishValue>
+    <frenchValue>Pas un nombre</frenchValue>
+  </term>
+  <term>
+    <name>This is not a number</name>
+    <englishValue>This is not a number</englishValue>
+    <frenchValue>Ce n'est pas un nombre</frenchValue>
+  </term>
+  <term>
+    <name>The end number must be greater than the start number</name>
+    <englishValue>The end number must be greater than the start number</englishValue>
+    <frenchValue>Le nombre final doit être plus grand que le nombre de départ</frenchValue>
+  </term>
+  <term>
+    <name>End smaller start</name>
+    <englishValue>End smaller start</englishValue>
+    <frenchValue>Nombre final plus petit que le nombre de début</frenchValue>
+  </term>
+  <term>
+    <name>The first line cannot be empty</name>
+    <englishValue>The first line cannot be empty</englishValue>
+    <frenchValue>La première ligne ne peut pas être vide</frenchValue>
+  </term>
+  <term>
+    <name>First Line Empty</name>
+    <englishValue>First Line Empty</englishValue>
+    <frenchValue>Première ligne vide</frenchValue>
+  </term>
+  <term>
+    <name>Code Line assembled 123 123 or not assembled 111 222 333</name>
+    <englishValue>Code Line assembled 123 123 or not assembled 111 222 333</englishValue>
+    <frenchValue>Lignes de code assemblées 123 123 ou pas assemblées 111 222 333</frenchValue>
+  </term>
+  <term>
+    <name>Number of lines</name>
+    <englishValue>Number of lines</englishValue>
+    <frenchValue>Nombre de lignes</frenchValue>
+  </term>
+  <term>
+    <name>Iterator Type</name>
+    <englishValue>Iterator Type</englishValue>
+    <frenchValue>Type itérateur</frenchValue>
+  </term>
+  <term>
+    <name>Iterator Character</name>
+    <englishValue>Iterator Character</englishValue>
+    <frenchValue>Caractère itérateur</frenchValue>
+  </term>
+  <term>
+    <name>Range (From - To)</name>
+    <englishValue>Range (From - To)</englishValue>
+    <frenchValue>Plage (De - jusqu'à)</frenchValue>
+  </term>
+  <term>
+    <name>Generate</name>
+    <englishValue>Generate</englishValue>
+    <frenchValue>Générer</frenchValue>
+  </term>
+  <term>
+    <name>One Line</name>
+    <englishValue>One Line</englishValue>
+    <frenchValue>Une ligne</frenchValue>
+  </term>
+  <term>
+    <name>Several Lines</name>
+    <englishValue>Several Lines</englishValue>
+    <frenchValue>Plusieurs lignes</frenchValue>
+  </term>
+  <term>
+    <name>Number</name>
+    <englishValue>Number</englishValue>
+    <frenchValue>Nombre</frenchValue>
+  </term>
+  <term>
+    <name>Letter</name>
+    <englishValue>Letter</englishValue>
+    <frenchValue>Lettre</frenchValue>
+  </term>
+  <term>
+    <name>Directory</name>
+    <englishValue>Directory</englishValue>
+    <frenchValue>Répertoire</frenchValue>
+  </term>
+  <term>
+    <name>File</name>
+    <englishValue>File</englishValue>
+    <frenchValue>Fichier</frenchValue>
+  </term>
+  <term>
+    <name>Xml Files</name>
+    <englishValue>XML Files</englishValue>
+    <frenchValue>Fichiers XML</frenchValue>
+  </term>
+   <term>
+    <name>XML File</name>
+    <englishValue>XML File</englishValue>
+    <frenchValue>Fichier XML</frenchValue>
+  </term>
+  <term>
+    <name>The start directory cannot be empty</name>
+    <englishValue>The start directory cannot be empty</englishValue>
+    <frenchValue>Le répertoire de base ne peut pas être vide</frenchValue>
+  </term>
+  <term>
+    <name>Empty Directory</name>
+    <englishValue>Empty Directory</englishValue>
+    <frenchValue>Répertoire vide</frenchValue>
+  </term>
+  <term>
+    <name>The xml file name cannot be empty</name>
+    <englishValue>The xml file name cannot be empty</englishValue>
+    <frenchValue>Le nom du fichier xml ne pas être vide</frenchValue>
+  </term>
+  <term>
+    <name>Empty File Name</name>
+    <englishValue>Empty File Name</englishValue>
+    <frenchValue>Nom de fichier vide</frenchValue>
+  </term>
+  <term>
+    <name>Not a Directory</name>
+    <englishValue>Not a Directory</englishValue>
+    <frenchValue>Faux répertoire</frenchValue>
+  </term>
+  <term>
+    <name>The search is over</name>
+    <englishValue>The search is over</englishValue>
+    <frenchValue>La recherche est terminée</frenchValue>
+  </term>
+  <term>
+    <name>Search over</name>
+    <englishValue>Search over</englishValue>
+    <frenchValue>Recherche finie</frenchValue>
+  </term>
+  <term>
+    <name>Last file processed</name>
+    <englishValue>Last file processed</englishValue>
+    <frenchValue>Dernier fichier traité</frenchValue>
+  </term>
+   <term>
+    <name>Number of quote</name>
+    <englishValue>Number of quote</englishValue>
+    <frenchValue>Nombre de citation</frenchValue>
+  </term>
+</terms>
