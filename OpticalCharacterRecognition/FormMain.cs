@@ -137,11 +137,7 @@ namespace OpticalCharacterRecognition
     {
       List<string> minimumVersion = new List<string>
       {
-        "<?xml version=\"1.0\" encoding=\"utf - 8\" ?>",
-        "<Document>",
-        "<DocumentVersion>",
-        "<version> 1.0 </version>",
-        "</DocumentVersion>",
+        "<?xml version=\"1.0\" encoding=\"utf-8\" ?>",
         "<terms>",
          "<term>",
         "<name>MenuFile</name>",
@@ -274,7 +270,6 @@ namespace OpticalCharacterRecognition
           "<frenchValue>A propos de ...</frenchValue>",
         "</term>",
         "</terms>",
-        "</Document>"
       };
       StreamWriter sw = new StreamWriter(Settings.Default.LanguageFileName);
       foreach (string item in minimumVersion)
